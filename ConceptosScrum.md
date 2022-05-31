@@ -90,3 +90,8 @@ El Scrum Team también es conocido como equipo de desarrollo, ya que es responsa
 • Realizar las reuniones diarias de pie (Daily Standup Meeting).
 • Identificar oportunidades de mejora en la reunión de retrospectiva del sprint.
 • Participar en la reunión de retrospectiva del proyecto.
+
+OTROS ROLES EN SCRUM
+Stakeholders: Son los afectados o interesados por el entregable de cada sprint. En una organización tradicional son muchos los «departamentos» que pueden verse afectados por cada uno de los incrementos que se generan a lo largo de cualquiera de las etapas del ciclo de vida de un producto. Por ejemplo: Finanzas, Marketing o Legal. Todos ellos pueden aportar sus inquietudes e incluso dar su feedback en el momento de la entrega.
+
+Cliente O Customer: Es el destinatario final del valor entregado. Sin duda, el cliente es un rol imprescindible en Agilidad para pulsar el éxito de nuestro producto ya que es quién lo usará e incluso podría estar dispuesto a pagar por él. El cliente nos dará el feedback más valioso para seguir tomando decisiones en torno a nuestro producto: si lo seguimos evolucionando y en qué dirección.
