@@ -7,14 +7,14 @@ metodología o proceso, es un Marco de Trabajo.
 ● No está restringido a proyectos de software solamente.
 ● Su visión es opuesta a la propuesta por la metodología en
 cascada.
-Las ceremonias son 
+Con relacion a las ceremonias: 
 Scrum define cinco ceremonias principales para cumplir con el control de sus procesos, todas con un sentido de ser propio que hace que sean imprescindibles para esta metodología.
 La razón por la que Scrum cuenta con estas cinco ceremonias es la de mantener los mínimos necesarios para facilitar que el control empírico de procesos funciona. El gran problema de adaptar estos eventos o de transformarlos en otra realidad es el de dinamitar uno de los pilares fundamentales de Scrum y, por lo tanto, asumir correr el riesgo al que conlleva.
 EL SPRINT  PLANNING
  es una reunión que se realiza al comienzo de cada Sprint donde participa el equipo Scrum al completo; sirve para inspeccionar el Backlog del Producto (Product Backlog ) y que el equipo de desarrollo seleccione los Product Backlog Items en los que va a trabajar durante el siguiente Sprint. Estos Product Backlog Items son los que compondrán el Sprint Backlog.
 
 Durante esta reunión, el product owner presenta el Product Backlog actualizado que el equipo de desarrollo se encarga de estimar, además de intentar clarificar aquellos ítems que crea necesarios.
-El Sprint Planning se divide en dos partes. En la primera parte de la reunión se trata Qué se va a hacer en el siguiente Sprint y, en la segunda parte, se discute el Cómo. La primera parte está organizada y liderada por el product owner, mientras que de la segunda parte se encarga el Development Team. La única labor del Scrum Master es asegurarse de que la reunión existe como parte de Scrum y que se mantiente dentro de las duraciones estimadas.
+El Sprint Planning se divide en dos partes. En la primera parte de la reunión se trata qué se va a hacer en el siguiente Sprint y, en la segunda parte, se discute el Cómo. La primera parte está organizada y liderada por el product owner, mientras que de la segunda parte se encarga el Development Team. La única labor del Scrum Master es asegurarse de que la reunión existe como parte de Scrum y que se mantiente dentro de las duraciones estimadas.
 El Sprint Planning puede durar hasta 8 horas para Sprints de 4 semanas.
 
 2ª ceremonia: Daily Scrum
@@ -51,7 +51,7 @@ Pila del Producto (Product Backlog)
 El Product Backlog es un inventario que contiene cualquier tipo de trabajo que haya que hacer en el producto: requerimientos, casos de uso, tareas y dependencias. Es la principal fuente de información sobre el producto en Scrum, una lista, en cualquier formato, que contiene todos los requerimientos que necesitamos implementar en el producto. Esta lista es el resultado del trabajo del Product Owner con el cliente, los distintos stakeholders, sponsors, comités, etc, y refleja el estado real del trabajo pendiente de implementar en el producto, así como el ya realizado. 
 Un Product Backlog contiene distintos elementos:
 Funcionalidades
-Bugs
+Bugs: fallo o error en un ordenador o sistema de software que termina provocando un resultado no deseado.
 Historias de usuario: una forma de expresar elementos de un Product Backlog. Para obtener el máximo valor de una historia de usuarios es necesario expresarlas desde el punto de vista del usuario.
 Tareas técnicas
 Trabajo de investigación
@@ -61,7 +61,7 @@ Sprint Backlog
 Todo el trabajo que el Development Team haya seleccionado para hacer durante el siguiente Sprint pasa al Sprint Backlog. Este artefacto es un elemento para visualizar el trabajo a realizar durante cada Sprint y está gestionado por el equipo de desarrollo. Su propósito es mantener la transparencia dentro del desarrollo, actualizándolo durante toda la iteración especialmente a través de los daily Scrums.
 Este artefacto permite entender cuál es la evolución del trabajo durante el Sprint, así como hacer un análisis de riesgos. Dado que cada Sprint tiene una meta específica (p.e. permitir que los usuarios se registren en la app móvil) y hay elementos seleccionados del Product Backlog que tienen más o menos valor, el Sprint Backlog permite analizar hasta donde se ha cumplido el objetivo y que se podría eliminar. De esta forma, maximizamos el retorno de la inversión en desarrollo.
 Incremento
-Si Scrum tuviera que ser reducido a una sola cosa, sería a entregar una pieza de software terminado en cada Sprint. Un Incremento es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
+Si Scrum tuviera que ser reducido a una sola cosa, sería a entregar una pieza de software terminado en cada Sprint. Un Incremento en el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
 Construir software de manera ágil se basa en hacerlo de manera iterativa e incremental. Mediante las iteraciones, nos aseguramos que todo el ciclo de vida del software (planificación, diseño, desarrollo, testeo y entrega) ocurre en 4 semanas o menos. Por supuesto, no podemos construir toda la funcionalidad que queremos en solo cuatro semanas y tenemos que buscar la manera de ir entregando los componentes necesarios justo a tiempo.
 roles:
 Un equipo Scrum suele estar compuesto por grupos de trabajo de entre 3 a 9 miembros del equipo de desarrollo, más el Scrum Master y el Product Owner. Cada uno de estos roles tiene diferentes responsabilidades y debe de rendir cuentas de distinta manera, tanto entre ellos como para el resto de la organización. La suma de todos los roles es lo que llamamos Equipo Scrum.
