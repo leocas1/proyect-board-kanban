@@ -88,6 +88,8 @@ Si Scrum tuviera que ser reducido a una sola cosa, sería a entregar una pieza d
 Construir software de manera ágil se basa en hacerlo de manera iterativa e incremental. Mediante las iteraciones, nos aseguramos que todo el ciclo de vida del software (planificación, diseño, desarrollo, testeo y entrega) ocurre en 4 semanas o menos. Por supuesto, no podemos construir toda la funcionalidad que queremos en solo cuatro semanas y tenemos que buscar la manera de ir entregando los componentes necesarios justo a tiempo.
 roles.
 
+## Roles
+
 **Equipo Scrum**
 Un equipo Scrum suele estar compuesto por grupos de trabajo de entre 3 a 9 miembros del equipo de desarrollo, más el Scrum Master y el Product Owner. Cada uno de estos roles tiene diferentes responsabilidades y debe de rendir cuentas de distinta manera, tanto entre ellos como para el resto de la organización. La suma de todos los roles es lo que llamamos Equipo Scrum.
 
@@ -104,7 +106,7 @@ El Scrum Master tiene dos funciones principales dentro del marco de trabajo gest
 2.    Eliminar impedimentos: esta función del Scrum Master indica la necesidad de ayudar a eliminar progresiva y constantemente impedimentos que van surgiendo en la organización y que afectan a su capacidad para entregar valor, así como a la integridad de esta metodología. El Scrum Master debe ser el responsable de velar porque Scrum se lleve adelante, transmitiendo sus beneficios a la organización facilitando su implementación.
 scrum team.
 
-**El Scrum Team** 
+**El Scrum Team o Development Team** 
 También es conocido como equipo de desarrollo, ya que es responsable del desarrollo, servicio o de cualquier otro resultado. Consiste en un grupo de personas que trabajan en las historias de usuario en la lista de pendientes del sprint para crear los entregables del proyecto. Nadie, ni siquiera el Scrum Master, indica al Scrum Team cómo cumplir los objetivos del sprint, es un equipo auto gestionado y multifuncional que cuenta con todas las habilidades necesarias. El tamaño óptimo de un equipo Scrum es de seis a diez miembros.
 
 • Asegura una comprensión clara de las épicas y prototipos.
@@ -131,10 +133,8 @@ También es conocido como equipo de desarrollo, ya que es responsable del desarr
 
 • Participar en la reunión de retrospectiva del proyecto.
 
-***OTROS ROLES EN SCRUM***
-
-**Stakeholders:** 
+**Stakeholders o Customers** 
 Son los afectados o interesados por el entregable de cada sprint. En una organización tradicional son muchos los «departamentos» que pueden verse afectados por cada uno de los incrementos que se generan a lo largo de cualquiera de las etapas del ciclo de vida de un producto. Por ejemplo: Finanzas, Marketing o Legal. Todos ellos pueden aportar sus inquietudes e incluso dar su feedback en el momento de la entrega.
 
-**Cliente O Customer**
+**Cliente o User**
  Es el destinatario final del valor entregado. Sin duda, el cliente es un rol imprescindible en Agilidad para pulsar el éxito de nuestro producto ya que es quién lo usará e incluso podría estar dispuesto a pagar por él. El cliente nos dará el feedback más valioso para seguir tomando decisiones en torno a nuestro producto: si lo seguimos evolucionando y en qué dirección.
