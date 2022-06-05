@@ -138,3 +138,44 @@ Son los afectados o interesados por el entregable de cada sprint. En una organiz
 
 **Cliente o User**
  Es el destinatario final del valor entregado. Sin duda, el cliente es un rol imprescindible en Agilidad para pulsar el éxito de nuestro producto ya que es quién lo usará e incluso podría estar dispuesto a pagar por él. El cliente nos dará el feedback más valioso para seguir tomando decisiones en torno a nuestro producto: si lo seguimos evolucionando y en qué dirección.
+ 
+ **Los	Artefactos de Scrum	(Scrum	Artifacts)**
+ Los	artefactos	de	Scrum	representan el	trabajo	o	el	valor	en	diversas	formas	que	son	útiles	para	
+proporcionar	transparencia	y	oportunidades	para	la	inspección	y	adaptación.	Los	artefactos	
+definidos	por	Scrum	están	diseñados	específicamente	para	maximizar	la	transparencia	de	la información	clave,	necesaria	para	asegurar	que	todos	tengan	el	mismo	entendimiento	del	artefacto.	Estos artefactos son: product backlog, sprint backlog y el incremento.
+La	Pila	del	Producto	**(Product	Backlog)** es	una	lista ordenada	de	todo	lo	que	podría	ser	necesario	
+en	el	producto	y	es	la	única	fuente	de	requisitos	para	cualquier	cambio	a	realizarse	en	el	
+producto.	El	Propietario	del	Producto	(Product	Owner)	es	el	responsable	de	la	Pila	del	Producto	
+(Product	Backlog),	incluyendo	su	contenido,	disponibilidad	y	ordenación.
+La	Pila	del	Sprint	**(Sprint	Backlog)** es	el	conjunto	de	los	elementos	de	la	Pila	del	Producto	
+(Product	Backlog) seleccionados	para	el	Sprint,	más	un	plan	para	entregar	el	Incremento	de	
+producto	y	conseguir	el	objetivo	del	Sprint.	La	Pila	del	Sprint	(Sprint	Backlog) es	una	predicción	
+hecha	por	el	Equipo	de	Desarrollo	(Development	Team) acerca	de	qué	funcionalidad	formará	
+parte	del	próximo	Incremento	y	del	trabajo	necesario	para	entregar	esa	funcionalidad	en	un	
+Incremento	“Terminado”.
+La	Pila	del	Sprint	(Sprint	Backlog) hace	visible	todo	el	trabajo	que	el	Equipo	de	Desarrollo
+(Development	Team) identifica	como	necesario	para	alcanzar	el	objetivo	del	Sprint.
+**El	Incremento**	es	la	suma	de	todos	los	elementos	de	la	Pila	del	Producto	(Product	Backlog)
+completados	durante	un	Sprint	y	el	valor de	los	incrementos	de	todos	los	Sprints	anteriores.	Al	
+final	de	un	Sprint	el	nuevo	Incremento	debe	estar	“Terminado”,	lo	cual	significa	que	está	en	
+condiciones	de	ser	utilizado	y	que	cumple	la	Definición	de	“Terminado”	del	Equipo	Scrum.	El	
+incremento	debe estar	en	condiciones	de	utilizarse	sin	importar	si	el	Propietario	del	Producto	
+(Product	Owner) decide	liberarlo	o	no.
+
+**Transparencia	de los	Artefactos	(Artifact	Transparency)**
+
+Scrum	se	basa	en	la	transparencia.	Las	decisiones	para	optimizar	el	valor	y	controlar	el	riesgo	se	
+toman	basadas	en	el	estado	percibido	de	los	artefactos.	En	la	medida	en	que	la	transparencia	
+sea	completa,	estas	decisiones	tienen	unas	bases	sólidas.	En	la	medida	en	que	los	artefactos	no	
+son	completamente	transparentes,	estas	decisiones	pueden	ser	erróneas,	el	valor	puede	
+disminuir	y	el	riesgo	puede	aumentar.
+El	Scrum	Master	debe	trabajar	con	el	Propietario	del	Producto	(Product	Owner),	el	Equipo	de	
+Desarrollo	(Development	Team) y	otras	partes	involucradas	para	entender	si	los	artefactos	son	
+completamente	transparentes.	Hay	prácticas	para	hacer	frente	a	la	falta	de	transparencia;	el	
+Scrum	Master	debe	ayudar	a	todos	a	aplicar	las	prácticas	más	apropiadas	si	no	hay	una	
+transparencia	completa.	Un	Scrum	Master	puede	detectar	la	falta	de	transparencia	
+inspeccionando	los	artefactos,	reconociendo	patrones,	escuchando	atentamente	lo	que	se	dice	
+y	detectando	diferencias	entre	los	resultados	esperados	y	los	reales.
+La	labor	del	Scrum	Master	es	trabajar	con	el	Equipo	Scrum	y	la	organización	para	mejorar	la	
+transparencia	de	los	artefactos.	Este	trabajo	usualmente	incluye	aprendizaje,	convicción	y	
+cambio.	La	transparencia	no	ocurre	de	la	noche	a	la	mañana,	sino	que	es	un	camino.
