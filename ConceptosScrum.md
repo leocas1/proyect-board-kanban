@@ -67,11 +67,6 @@ los artefactos En el marco de trabajo Scrum, denominamos Artefacto a aquellos el
 
 # Conceptos importantes
 
-**Pila del Producto (Product Backlog)** 
-El Product Backlog es un inventario que contiene cualquier tipo de trabajo que haya que hacer en el producto; requerimientos, casos de uso, tareas y dependencias. Es la principal fuente de información sobre el producto en Scrum, una lista, en cualquier formato, que contiene todos los requerimientos que necesitamos implementar en el producto. Esta lista es el resultado del trabajo del Product Owner con el cliente, los distintos stakeholders, sponsors, comités, etc, y refleja el estado real del trabajo pendiente de implementar en el producto, así como el ya realizado. 
-Un Product Backlog contiene distintos elementos:
-Funcionalidades
-
 **Bugs:** 
 Fallo o error en un ordenador o sistema de software que termina provocando un resultado no deseado.
 
