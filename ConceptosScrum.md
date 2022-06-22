@@ -174,5 +174,3 @@ y	detectando	diferencias	entre	los	resultados	esperados	y	los	reales.
 La	labor	del	Scrum	Master	es	trabajar	con	el	Equipo	Scrum	y	la	organización	para	mejorar	la	
 transparencia	de	los	artefactos.	Este	trabajo	usualmente	incluye	aprendizaje,	convicción	y	
 cambio.	La	transparencia	no	ocurre	de	la	noche	a	la	mañana,	sino	que	es	un	camino.
-
-Nueva rama por Joaquin Bonvechi
