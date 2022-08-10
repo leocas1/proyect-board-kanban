@@ -1,0 +1,10 @@
+Clientes =[]
+Clientes.append("juan")
+Clientes.append("mario")
+Clientes.append("ariel")
+Clientes.append("josefina")
+Clientes.append("marianella")
+print(len(Clientes))
+print(Clientes)
+Clientes.sort()
+print(Clientes)
