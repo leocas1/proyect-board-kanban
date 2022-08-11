@@ -65,28 +65,3 @@ DELETE FROM historial WHERE (year(now()) - year(fecha))  > 5;
 DELETE FROM perro WHERE id_perro = 3;
 
 SELECT * FROM perro;
-
-# 4 #
-
-UPDATE perro 
-SET fecha_de_nacimiento = '2005-07-13'
-WHERE id_perro = 2;
-
-SELECT * FROM perro;
-
-# 5 #
-
-SELECT p.nombre
-FROM perro as p
-JOIN dueno as d
-	ON p.dni_dueno = d.dni
-WHERE d.nombre LIKE '%Pedro%';
-
-
-
-
-
-
-
-
-
