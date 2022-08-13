@@ -51,15 +51,19 @@ SELECT fecha, perro FROM historial WHERE (year(now()) - year(fecha))  > 5;
 DELETE FROM historial WHERE (year(now()) - year(fecha))  > 5; 
 DELETE FROM perro WHERE id_perro = 3;
 SELECT * FROM perro;
- 
+
+UPDATE dueno
+SET nombre = "Pedro"
+WHERE dueno.dni =35114417;
+
 SELECT dueno.nombre AS "Nombre del Dueño", perro.nombre AS "Nombre perro"
 FROM dueno
 JOIN perro
 ON dueno.dni = perro.dni_dueno
-WHERE dueno.nombre = "Pedro"
+WHERE dueno.nombre = "Pedro";
 
 UPDATE dueno
 SET direccion = "Libertad 123"
-WHERE dueno.dni =12345678
+WHERE dueno.dni =35114417;
 
 
